@@ -15,7 +15,7 @@ nav{
 .web-name{
     display: flex;
     align-items: center;
-    /* width: 50%; */
+    
      
 }
 .web-name h3{
@@ -47,4 +47,65 @@ nav{
 }
 .web-nav .home a{
     color: #FF5400;
+}
+
+/* Banner Section */
+
+.img-description{
+    text-align: center;
+    align-items: center;
+    padding:70px;
+}
+.img-description h2{
+    font-size: 4rem;
+    color: #FFF;
+    margin-bottom: 10px;
+   
+}
+.img-description p{
+width: 676px;
+margin: 0 auto;
+color: #FFF;
+}
+.background-img{
+background-image:url(./Images/background.png);
+
+}
+section{
+background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(./Images/background.png);
+width: 1170px;
+height: 500px;
+margin: 0 auto;
+border-radius: 10px;
+}.form{
+    display:inline-flex;
+    background-color: rgba(255, 255, 255, 0.30); ;
+    padding: 16px;
+    gap: 24px;
+    border-radius: 8px;
+    position: relative;
+    top: 70px;
+}
+.where{
+    width: 174px;
+    padding: 16px;
+    color: rgba(19, 19, 24, 0.50);
+    font-size: 1rem;
+    border-radius: 8px;
+}
+.selector{
+    width: 174px;
+    padding: 16px;
+    color: rgba(19, 19, 24, 0.50);
+    font-size: 1rem;
+    border-radius: 8px;
+}
+.form button{
+    width: 174px;
+    padding: 16px;
+    background-color: #FF5400;
+    color: #FFF;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
 }
