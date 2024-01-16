@@ -1,0 +1,262 @@
+@media screen and (max-width: 660px) {
+    nav{
+        flex-direction: column;
+
+    }
+    .web-name h3{
+        font-size: 21.543px;
+    }
+    #travel{
+        font-size: 21.543px; 
+    }
+    .web-name img{
+        width: 28.724px;
+height: 33.516px;
+    }
+    
+    .web-nav{
+        display: none;
+        
+    }
+    .menubar{
+        display: block;
+        margin: 0 auto;}
+
+       
+    .banner-section{
+ width: 335px;
+height:483px;
+    }
+   .img-description{
+    padding:2px
+   }
+    .banner-section p{
+        width: 304px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .banner-section h2 {
+        font-size: 32px;
+    }
+    .form{
+        flex-direction: column;
+        padding: 16px;
+        gap: 16px;
+        top: 20px;
+        width: 287px;
+         }
+       
+         .tour-history{
+            flex-direction: column;
+            padding: 15px;
+         }
+         .tour-description{
+            width: 335px;
+         }
+         .tour-description h3{
+            font-size: 20px;
+            margin-left: 5px;
+         }
+         .tour-description p{
+            font-size: 14px;
+            margin-left: 8px;
+         }
+         .tour-description li{
+            font-size: 14px;
+            width: 330px;
+            }
+            .btn{
+                margin-left: 5px;
+                margin-top: 20px;
+            }
+          .tour-img img{
+            width: 335px;
+            height: 342px;
+            margin-left: 105px;
+            margin-top:70px;
+          }
+          
+         .imgp1{
+            flex-direction: column;
+        }
+        .img1 , .img2 , .img3, .img4, .img6, .img7{
+            width:390px;
+           height: 220px;
+           border-radius: 10px;
+           margin: 7px 20px;
+           
+        }
+           .img5{margin: 7px 20px;}
+           .img-main-description h3{
+            font-size: 20px;
+           }
+           .img-main-description p{
+            width: 309px;
+            font-size: 20px;
+            margin: 0 50px;
+           }
+           .box-1{
+            flex-direction: column;
+           }
+           .box-2, .box-3{
+            width: 335px;
+            height: 289px;
+            margin: 0;
+            padding-right: 20px;
+            margin: 7px 20px;
+            border-radius: 16px;
+           }
+           .box-2 p{
+            width: 271px;
+            font-size: 14px;
+           }
+           .box-3 p{
+            font-size: 14px;
+            width: 271px;
+           }
+           .box-4{
+            position: relative;
+            left: 0px;
+            margin: 0;
+            width: 335px;
+            height: 289px;
+            padding-left: 30px;
+            margin: 7px 20px;
+            
+           }
+           .box-4 p{
+            font-size: 14px;
+            width: 271px;
+            text-align: start;
+            
+           }
+           .box-4 h3{
+            text-align: start;
+           }
+           .intro-section{
+            padding-left: 50px;
+            
+           }
+           .intro-section h3{
+            padding: 5px;
+            text-align: start;
+            font-size: 25px;
+           }
+           .intro-section p{
+            margin: 0px;
+            width: 309px;
+            text-align: start;
+            width: 309px;
+            margin-right: 10px;
+           }
+          
+           .watch-our{
+            flex-direction: column;
+            padding: 0px;
+            margin: 0px;
+           }
+           .mountain-description h3{
+            width: 248px;
+            font-size: 20px;
+            margin: 7px 20px;
+           }
+           .mountain-description p{
+           font-size: 14px;
+           width: 335px;
+           margin: 7px 20px;
+           }
+           .mountain-description li{
+            width: 335px;
+            font-size: 14px;
+            margin: 7px 20px;
+           }
+         .mountain-img{
+            width: 335px;
+           height: 200px;
+           border-radius: 10px;
+           margin: 7px 20px;
+         }
+         .mountain-img h3{
+            padding-top: 20px;
+         }
+         .newsletter-section{
+            flex-direction: column;
+
+         }
+         .newsletter{
+            width: 335px;
+            height: 353px;
+            margin: 7px 20px;
+         }
+         .newsletter input{
+            width: 288px;
+            height: 52px;
+            margin-top: 10px;
+         }
+         .btn-le{
+            width: 288px;
+height: 52px;
+         }
+         .newsletter h3{
+            font-size: 20px;
+         }
+         .newsletter p{
+            width: 270px;
+            font-size: 14px;
+         }
+        .news-bg{
+            width: 335px;
+           height: 300px;
+           margin: 7px 20px;
+        }
+        .transform{
+            width: 214.023px;
+height: 130.268px;
+transform: rotate(-19.628deg);
+        }
+       
+
+
+
+
+         footer{
+            width: 375px;
+            height: 309px;
+            
+         }
+         hr{
+            width: 335px;
+           height: 1px;
+
+         }
+         .footer-description{
+            padding: 0px;
+         }
+         .web-nam {
+            margin: 0px;
+         }
+         .footer-he p{
+            width: 287px;
+            font-size: 14px;
+            margin: 20px 40px;
+         }
+         .web-nam h3{
+            font-size: 21.54px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+            margin: 0px 80px ;
+         }
+         #travel-{
+            font-size: 21.54px; 
+            margin-top: 3px;
+        }
+        .web-nam img{
+            display: none;
+    
+    
+        }
+        #copyright{
+       display: none;
+       
+        }
+}
