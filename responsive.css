@@ -4,7 +4,11 @@
         flex-direction: column;
         max-width: 600px;
         
-
+        
+     
+    }
+    .web-name{
+      margin-left: 20px;
     }
     .web-name h3{
         font-size: 21.543px;
@@ -45,8 +49,7 @@ height:483px;
     }
     .form{
         flex-direction: column;
-        padding: 16px;
-        gap: 16px;
+        
         top: 20px;
         width: 287px;
          }
@@ -173,8 +176,7 @@ height:483px;
            .watch-our{
             flex-direction: column;
             max-width: 600px;
-            padding: 0px;
-            margin: 0px;
+            
            }
            .mountain-description h3{
             width: 248px;
@@ -203,6 +205,7 @@ height:483px;
          .newsletter-section{
             flex-direction: column;
             max-width: 600px;
+            margin-right: 20px;
 
          }
          .newsletter{
@@ -233,8 +236,8 @@ height: 52px;
         }
         .transform{
             width: 214.023px;
-height: 130.268px;
-transform: rotate(-19.628deg);
+       height: 130.268px;
+     transform: rotate(-19.628deg);
         }
        
 
