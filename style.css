@@ -313,7 +313,7 @@ padding-left: 130px;
 }
 .box-1{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     
     
 }
