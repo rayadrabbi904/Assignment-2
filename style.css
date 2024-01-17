@@ -12,6 +12,9 @@ nav{
     justify-content: space-between;
     
 }
+.menubar{
+    display: none;
+}
 .web-name{
     display: flex;
     align-items: center;
@@ -36,9 +39,7 @@ nav{
 
 }
 
-.menubar{
-    display: none;
-}
+
 .web-nav li{
     list-style: none;
     
